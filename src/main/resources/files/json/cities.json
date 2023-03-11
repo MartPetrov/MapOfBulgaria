@@ -1,0 +1,326 @@
+[
+  {
+    "cityName": "Sofia",
+    "population": 1284311,
+    "coordinateX": 1861616.088134,
+    "coordinateY": 4271030.264471
+  },
+  {
+    "cityName": "Pazardzhik",
+    "population": 74950,
+    "coordinateX": 1963066.829575,
+    "coordinateY": 4295345.719734
+  },
+  {
+    "cityName": "Plovdiv",
+    "population": 343424,
+    "coordinateX": 2017928.593924,
+    "coordinateY": 4277320.041017
+  },
+  {
+    "cityName": "Stara Zagora",
+    "population": 136144,
+    "coordinateX": 2061880.248188,
+    "coordinateY": 4216590.825129
+  },
+  {
+    "cityName": "Yambol",
+    "population": 69542,
+    "coordinateX": 2115999.270584,
+    "coordinateY": 4181261.064246
+  },
+  {
+    "cityName": "Burgas",
+    "population": 202766,
+    "coordinateX": 2182538.557461,
+    "coordinateY": 4144125.475009
+  },
+  {
+    "cityName": "Botevgrad",
+    "population": 31514,
+    "coordinateX": 1908380.701028,
+    "coordinateY": 4220932.680718
+  },
+  {
+    "cityName": "Pleven",
+    "population": 102955,
+    "coordinateX": 1952943.773853,
+    "coordinateY": 4185314.040842
+  },
+  {
+    "cityName": "Veliko Tarnovo",
+    "population": 87181,
+    "coordinateX": 2046417.036108,
+    "coordinateY": 4188462.563199
+  },
+  {
+    "cityName": "Shumen",
+    "population": 82193,
+    "coordinateX": 2146653.291835,
+    "coordinateY": 4110580.157962
+  },
+  {
+    "cityName": "Pernik",
+    "population": 90195,
+    "coordinateX": 1829390.207864,
+    "coordinateY": 4297260.043641
+  },
+  {
+    "cityName": "Dupnitsa",
+    "population": 40789,
+    "coordinateX": 1856343.401557,
+    "coordinateY": 4333427.642947
+  },
+  {
+    "cityName": "Blagoevgrad",
+    "population": 75862,
+    "coordinateX": 1865554.525148,
+    "coordinateY": 4362210.649328
+  },
+  {
+    "cityName": "Sandanski",
+    "population": 38153,
+    "coordinateX": 1892364.630957,
+    "coordinateY": 4357112.910884
+  },
+  {
+    "cityName": "Petrich",
+    "population": 50890,
+    "coordinateX": 1891196.987218,
+    "coordinateY": 4380491.275714
+  },
+  {
+    "cityName": "Chirpan",
+    "population": 19822,
+    "coordinateX": 2036149.464653,
+    "coordinateY": 4260017.179305
+  },
+  {
+    "cityName": "Haskovo",
+    "population": 88471,
+    "coordinateX": 2057543.618984,
+    "coordinateY": 4231147.358604
+  },
+  {
+    "cityName": "Svilengrad",
+    "population": 22234,
+    "coordinateX": 2096639.089368,
+    "coordinateY": 4235455.100400
+  },
+  {
+    "cityName": "Varna",
+    "population": 335177,
+    "coordinateX": 2217918.018483,
+    "coordinateY": 4080529.541799
+  },
+  {
+    "cityName": "Nesebur",
+    "population": 14951,
+    "coordinateX": 2204531.775674,
+    "coordinateY": 4110371.098121
+  },
+  {
+    "cityName": "Slivnica",
+    "population": 8999,
+    "coordinateX": 1817596.013225,
+    "coordinateY": 4269036.176127
+  },
+  {
+    "cityName": "Dragoman",
+    "population": 4916,
+    "coordinateX": 1851060.926176,
+    "coordinateY": 4244896.230712
+  },
+  {
+    "cityName": "Vidin",
+    "population": 55790,
+    "coordinateX": 1786567.456000,
+    "coordinateY": 4235104.199000
+  },
+  {
+    "cityName": "Montana",
+    "population": 49267,
+    "coordinateX": 1832794.079947,
+    "coordinateY": 4240253.376350
+  },
+  {
+    "cityName": "Vratsa",
+    "population": 65905,
+    "coordinateX": 1883282.609578,
+    "coordinateY": 4246152.892957
+  },
+  {
+    "cityName": "Kulata",
+    "population": 834,
+    "coordinateX": 1911344.499785,
+    "coordinateY": 4373125.606793
+  },
+  {
+    "cityName": "Ruse",
+    "population": 144936,
+    "coordinateX": 2045261.603465,
+    "coordinateY": 4081005.722213
+  },
+  {
+    "cityName": "Razgrad",
+    "population": 47590,
+    "coordinateX": 2083427.104969,
+    "coordinateY": 4105300.566378
+  },
+  {
+    "cityName": "Byala",
+    "population": 12319,
+    "coordinateX": 2039841.018840,
+    "coordinateY": 4137974.275122
+  },
+  {
+    "cityName": "Turgovishte",
+    "population": 54428,
+    "coordinateX": 2103457.971619,
+    "coordinateY": 4136104.515235
+  },
+  {
+    "cityName": "Gabrovo",
+    "population": 59663,
+    "coordinateX": 1998975.954104,
+    "coordinateY": 4183596.755233
+  },
+  {
+    "cityName": "Shipka",
+    "population": 1398,
+    "coordinateX": 2005702.127473,
+    "coordinateY": 4197816.587339
+  },
+  {
+    "cityName": "Kazanlak",
+    "population": 69086,
+    "coordinateX": 2022614.753490,
+    "coordinateY": 4208540.033541
+  },
+  {
+    "cityName": "Kardzhali",
+    "population": 67667,
+    "coordinateX": 2051961.223513,
+    "coordinateY": 4275929.919484
+  },
+  {
+    "cityName": "Momchilgrad",
+    "population": 15553,
+    "coordinateX": 2061311.819014,
+    "coordinateY": 4285431.985823
+  },
+  {
+    "cityName": "Makaza",
+    "population": 0,
+    "coordinateX": 2078110.938999,
+    "coordinateY": 4312936.143546
+  },
+  {
+    "cityName": "Gyueshevo",
+    "population": 186,
+    "coordinateX": 1827766.919324,
+    "coordinateY": 4348084.500825
+  },
+  {
+    "cityName": "Kyustendil",
+    "population": 54645,
+    "coordinateX": 1852292.890562,
+    "coordinateY": 4331285.297034
+  },
+  {
+    "cityName": "Karlovo",
+    "population": 49338,
+    "coordinateX": 1997801.962672,
+    "coordinateY": 4217604.298516
+  },
+  {
+    "cityName": "Kalofer",
+    "population": 3631,
+    "coordinateX": 2019706.875103,
+    "coordinateY": 4210741.134549
+  },
+  {
+    "cityName": "Sliven",
+    "population": 120635,
+    "coordinateX": 2084151.217063,
+    "coordinateY": 4169780.308669
+  },
+  {
+    "cityName": "Karnobat",
+    "population": 23830,
+    "coordinateX": 2163860.671755,
+    "coordinateY": 4133220.350070
+  },
+  {
+    "cityName": "Silistra",
+    "population": 47130,
+    "coordinateX": 2111178.194596,
+    "coordinateY": 4064646.246846
+  },
+  {
+    "cityName": "Lesovo",
+    "population": 547,
+    "coordinateX": 2129504.366858,
+    "coordinateY": 4186930.622152
+  },
+  {
+    "cityName": "Ihtiman",
+    "population": 17147,
+    "coordinateX": 1935342.415904,
+    "coordinateY": 4273797.403762
+  },
+  {
+    "cityName": "Kostenets",
+    "population": 11656,
+    "coordinateX": 1949729.944331,
+    "coordinateY": 4286890.244920
+  },
+  {
+    "cityName": "Belovo",
+    "population": 3966,
+    "coordinateX": 1920010.807173,
+    "coordinateY": 4311015.341269
+  },
+  {
+    "cityName": "Harmanli",
+    "population": 26007,
+    "coordinateX": 2099787.775251,
+    "coordinateY": 4210609.665899
+  },
+  {
+    "cityName": "Lyubimets",
+    "population": 9448,
+    "coordinateX": 2077679.328877,
+    "coordinateY": 4233216.515730
+  },
+  {
+    "cityName": "Durankulak",
+    "population": 471,
+    "coordinateX": 2214658.274235,
+    "coordinateY": 4013002.037773
+  },
+  {
+    "cityName": "Shabla",
+    "population": 4610,
+    "coordinateX": 2224304.990368,
+    "coordinateY": 4029583.802208
+  },
+  {
+    "cityName": "Kavarna",
+    "population": 14394,
+    "coordinateX": 2207492.307189,
+    "coordinateY": 4054712.162183
+  },
+  {
+    "cityName": "Zlatni pqsuci",
+    "population": 0,
+    "coordinateX": 2181086.880758,
+    "coordinateY": 4090291.155389
+  },
+  {
+    "cityName": "Obzor",
+    "population": 2125,
+    "coordinateX": 2213703.443949,
+    "coordinateY": 4082430.126183
+  }
+]
